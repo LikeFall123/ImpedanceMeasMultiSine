@@ -1,0 +1,2 @@
+fs = 1024 Hz
+Bemeno jel: 10 Hz : 10 Hz : 500 Hz (49 db)
